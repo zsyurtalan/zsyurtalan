@@ -1,4 +1,4 @@
-https://pin.it/6Cc2u5XTw
+[![MasterHead](https://pin.it/6Cc2u5XTw)
 <h1 align="center">Hi 👋, I'm Zeynep Sıla</h1>
 <h3 align="center">🌱This is where I strive to become a software developer</h3>
 
