@@ -1,4 +1,3 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.redeweb.com%2Fwp-content%2Fuploads%2F2021%2F03%2Fsoftware-1.jpg&tbnid=G_zpZiPpM2rjGM&vet=12ahUKEwiHlLnh4JKFAxU74QIHHQQbBVcQMygQegQIARB0..i&imgrefurl=https%3A%2F%2Fwww.redeweb.com%2Fen%2Fpresent%2Fwhat-is-software%2F&docid=TLTH1EVuqiFlLM&w=728&h=410&q=software&ved=2ahUKEwiHlLnh4JKFAxU74QIHHQQbBVcQMygQegQIARB0)
 <h1 align="center">Hi 👋, I'm Zeynep Sıla</h1>
 <h3 align="center">🌱This is where I strive to become a software developer</h3>
 
